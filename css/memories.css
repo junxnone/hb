@@ -2723,7 +2723,7 @@
 @media screen and (max-aspect-ratio: 3/4) {
 	.ly-box81 {
 		width: 65%;
-		height: 60%;
+		height: 40%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
@@ -2799,7 +2799,7 @@
 @media screen and (min-aspect-ratio: 10/9) {
 	.ly-box81 {
 		width: 15%;
-		height: 600px;
+		height: 400px;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
