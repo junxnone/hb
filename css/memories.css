@@ -960,7 +960,7 @@
 	.ly-img11{
 		position: absolute;
 		width: 100%;
-		bottom: 0;
+		top: 0;
 	}
 
 	/*文本*/
